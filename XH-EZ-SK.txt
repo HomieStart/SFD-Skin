@@ -1,0 +1,26 @@
+	// <===============   MUDOKON AUTHORIZED BY XHOMIE   ====================>
+	// <<<<<<<<<<<<<<<<     ONLY MAP EDITOR OF SFD       >>>>>>>>>>>>>>>>>>>>>
+	// <===============           XH-EZ-SK               ====================> 
+	// <===============     XHOMIE SM CODE V1.0 !        ====================> 
+	// <=====================================================================>
+	// <==========   Si te gusto el "XH-EZ-SK", tu puedes contactarme, ======>
+	// <==========          Yo estare atento a tus comentarios         ======>
+	// <==========      sugerencias o ideas para nuevos script :)      ======> 
+	// <=====================================================================>
+	// <===================  Tr.x.Homie@gmail.com  ==========================>
+	// <=================== © 2016 By FV of XHomie ==========================>
+	// <=====================================================================>
+	// <=====================<XH For Mudokon Script>=========================>
+	// <=====================================================================>
+	// <=== For Use, You must create Skins whit "XH-EZ-SK" ID in your map ===>
+	// < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
+	// <== IF THiS SERVED FOR YOU, DON'T FORGET NOT TO MENTION AND THANKS GOOD MAN ! :) ==>
+	// < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
+	// <===========================<XHCODE>==================================>
+	private Random rnd;public void OnStartup(){if(Game.GetSingleObjectByCustomID("XH-EZ-SK") != null){if(rnd==null) rnd=new Random();int ojs;foreach(IPlayer pl in Game.GetPlayers()){ojs=Rnd(Game.GetObjectsByCustomID("XH-EZ-SK").Length,0);pl.SetProfile(((IObjectPlayerProfileInfo)(Game.GetObjectsByCustomID("XH-EZ-SK")[ojs])).GetProfile());}}}public int Rnd(int large,int start){int rnd=0;if (start != 0) rnd=this.rnd.Next(start, large);else rnd=this.rnd.Next(large);return rnd;}
+	// <=====================<XH For Mudokon Script>=========================>
+	// <=================== © 2016 By FV of XHomie ==========================>
+	// <=====================================================================>
+	// < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
+	// <== IF THiS SERVED FOR YOU, DON'T FORGET NOT TO MENTION AND THANKS GOOD MAN ! :) ==>
+	// < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
