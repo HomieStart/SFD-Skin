@@ -4,4 +4,4 @@ You can add players to your own custom skins.
 
 Copy the XH-EZ-SK.txt content to you Map Editor in "Script" Category
 
-After You can create any SkinProfiles, only need add "XH-EZ-SK" (without quotes,without space) to the ID
+After You can create any PlayerProfileInfo, only need add "XH-EZ-SK" (without quotes,without space) to the ID
