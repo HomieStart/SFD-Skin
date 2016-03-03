@@ -1,11 +1,12 @@
+	// <=====================================================================>
 	// <===============   MUDOKON AUTHORIZED BY XHOMIE   ====================>
 	// <<<<<<<<<<<<<<<<     ONLY MAP EDITOR OF SFD       >>>>>>>>>>>>>>>>>>>>>
 	// <===============           XH-EZ-SK               ====================> 
 	// <===============     XHOMIE SM CODE V1.1 !        ====================> 
 	// <=====================================================================>
-	// <==========   Si te gusto el "XH-EZ-SK", tu puedes contactarme, ======>
-	// <==========          Yo estare atento a tus comentarios         ======>
-	// <==========      sugerencias o ideas para nuevos script :)      ======> 
+	// <==========Si te gusto el "XH-EZ-SK v1.1", tu puedes contactarme,======>
+	// <==========          Yo estare atento a tus comentarios          =====>
+	// <==========      sugerencias o ideas para nuevos script :)       =====> 
 	// <=====================================================================>
 	// <===================  Tr.x.Homie@gmail.com  ==========================>
 	// <=================== © 2016 By FV of XHomie ==========================>
